@@ -869,12 +869,14 @@ code {
   color: #c7254e;
   background-color: #f9f2f4;
   border-radius: 0.25rem;
+  tab-size: 4;
 }
 
 pre code {
   padding: 0;
   background-color: transparent;
   border-radius: 0;
+  tab-size: 4;
 }
 
 pre {
@@ -882,6 +884,7 @@ pre {
   line-height: 1.5em;
   border-radius: 0.25rem;
   padding: 0.59375rem;
+  tab-size: 4;
 }
 .highlight pre {
   border: none;
