@@ -4,10 +4,15 @@ title: About me
 subtitle: Everything you always wanted to know
 ---
 
-My name is Arnaud Carré. I also use the nickname **Leonard** from **Oxygene** in the demoscene micro society.
+My name is Arnaud Carré. I also use the nickname **Leonard** from **Oxygene** in the demoscene micro society. Serious things started when I learned assembly programming and founded the "Oxygene" demo crew with good friends around 1990 (yes you can call me boomer)  
+For a living I'm currently a graphics engineer at Unity, mostly working with modern hardware and GPU. In my spare time I still enjoy programming demo effects or tools for retro computers such as Atari ST and Amiga 500.  
 
-### My story
+I think these two worlds (retro & modern) have a lot in common. Modern techniques could be applied efficiently in the retro world, and vice versa.
 
-I started programming in Basic on a Amstrad CPC 6128. Then I bought an Atari ST and serious things started when we founded the "Oxygene" demo crew with good friends. I started professional programming for video game industry back in 1994 (yes you can call me boomer). Currently working as Graphics Engineer at Unity
+This is what I want to focus on in my blog.
+
+### Links
 
 During years I released plenty of demos <a href="https://www.pouet.net/user.php?who=845&show=credits" target="_blank">(you can see a list on pouet.net)</a>
+
+Despite Elon, <a href="https://twitter.com/leonard_coder" target="_blank">I'm time to time on Twiter</a>

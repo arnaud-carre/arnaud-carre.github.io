@@ -20,7 +20,7 @@ author: "Arnaud Carré"
 ###############################################
 
 navbar-links:
-  Blog Posts: "https://arnaud-carre.github.io"
+  Blog Posts: "index"
   About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
