@@ -15,4 +15,4 @@ This is what I want to focus on in my blog.
 
 During years I released plenty of demos <a href="https://www.pouet.net/user.php?who=845&show=credits" target="_blank">(you can see a list on pouet.net)</a>
 
-Despite Elon, <a href="https://twitter.com/leonard_coder" target="_blank">I'm time to time on Twiter</a>
+Despite Elon, <a href="https://twitter.com/leonard_coder" target="_blank">I'm from time to time on Twiter</a>
