@@ -13,6 +13,10 @@ This is what I want to focus on in my blog.
 
 ### Links
 
-During years I released plenty of demos <a href="https://www.pouet.net/user.php?who=845&show=credits" target="_blank">(you can see a list on pouet.net)</a>
+I did various stuff released in some <a href="https://github.com/arnaud-carre/" target="_blank">public github repos</a>
 
 Despite Elon, <a href="https://twitter.com/leonard_coder" target="_blank">I'm from time to time on Twitter</a>
+
+During years I released plenty of demos <a href="https://www.pouet.net/user.php?who=845&show=credits" target="_blank">(you can see a list on pouet.net)</a>
+
+I also have a <a href="http://leonard.oxg.free.fr/" target="_blank">30 years old web site for boomers</a>
