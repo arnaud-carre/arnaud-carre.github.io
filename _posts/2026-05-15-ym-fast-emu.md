@@ -137,7 +137,7 @@ PAULA is a surprising chip. A long time ago I remembered reading something about
 
 In a way, this feature is similar to the YM2149 ADSR envelope. Not technically, but because both features are mostly ignored by Atari and Amiga programmers! :)
 
-To my knowledge, no Amiga game or demo actually uses it. (Probably because it is not very practical as an ADSR replacement: it consumes one precious PAULA voice per modulated voice.) Instead, Amiga trackers drive the voice volume at 50 Hz using the CPU. It is not as accurate as per-sample volume modulation, but it is more than good enough for games and demos.
+To my knowledge, no Amiga game uses it. And I'm only aware of a [single demo](https://youtu.be/OK_U9UnZoNs?t=35) using the pitch modulation option. (Probably because it is not very practical as an ADSR replacement: it consumes one precious PAULA voice per modulated voice). Instead, Amiga trackers drive the voice volume at music driver rate, using the CPU. It is not as accurate as per-sample volume modulation, but it is more than good enough for games and demos.
 
 The YM2149 has 3 voices. PAULA has 4. So why not use 3 of them to emulate YM square waves, and use the 4th PAULA voice as a volume modulator? That sounds like a solid plan! An ATARI programmer might be among the first to make use of this underrated PAULA feature :)
 
