@@ -179,14 +179,14 @@ When my PC offline tool detects both YM Envelope and Square on a voice, Amiga re
 First is the audio reference, generated on PC using my [Atari Audio emulation library](https://github.com/arnaud-carre/sndh-player/tree/main/AtariAudio).
 
 <audio controls>
-  <source src="{{ '/assets/img/ymemu/leavin9_pc_ref.ogg' | relative_url }}" type="audio/ogg">
+  <source src="{{ '/assets/img/ymemu/leavin9_pc_ref.mp3' | relative_url }}" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 And then the emulation result, outputed form WinUAE Amiga emulator, using the weird PAULA "attached voice" feature:
 
 <audio controls>
-  <source src="{{ '/assets/img/ymemu/leavin9_amiga_bad.ogg' | relative_url }}" type="audio/ogg">
+  <source src="{{ '/assets/img/ymemu/leavin9_amiga_bad.mp3' | relative_url }}" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
@@ -254,7 +254,7 @@ Let's look at the WinUAE output!
 And listen to the new AMIGA output!
 
 <audio controls>
-  <source src="{{ '/assets/img/ymemu/leavin9_amiga_fixed.ogg' | relative_url }}" type="audio/ogg">
+  <source src="{{ '/assets/img/ymemu/leavin9_amiga_fixed.mp3' | relative_url }}" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
