@@ -176,7 +176,7 @@ _Note: It's not linear triangular shape because of the logarithmic nature of YM2
 
 When my PC offline tool detects both YM Envelope and Square on a voice, Amiga replayer will enable this PAULA attached mode, and modulate the volume of voice 1 using our 16bits triangle shape wave from voice 0. Let's do a test by isolating MadMax buzzer in **Leavin Teramis, song 9**.
 
-First is the audio reference, generated on PC using my [Atari Audio emulation library](https://github.com/arnaud-carre/sndh-player/tree/main/AtariAudio).
+First is the audio reference, generated on PC using my [Atari Audio emulation library](https://github.com/arnaud-carre/AtariAudio).
 
 <audio controls>
   <source src="{{ '/assets/img/ymemu/leavin9_pc_ref.mp3' | relative_url }}" type="audio/mpeg">
